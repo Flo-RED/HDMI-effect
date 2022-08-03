@@ -6,7 +6,7 @@ You browse for your image and click create and save path. It will then make a co
 
 
 
-![Screenshot 2022-08-03 235917](https://i.imgur.com/1XgLMkP.png)
+![Screenshot 2022-08-03 235917](https://i.imgur.com/63rB4Lc.png)
 # ↓
-![Screenshot 2022-08-03 235917](https://i.imgur.com/HJL1Caf.png)
+![Screenshot 2022-08-03 235917](https://i.imgur.com/p9o6Biv.png)
 
